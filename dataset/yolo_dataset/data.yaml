@@ -1,0 +1,8 @@
+path: c:/Users/sunee/OneDrive/Desktop/Weed_Detection_Project/dataset/yolo_dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: crop
+  1: weed
